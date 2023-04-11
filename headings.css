@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.list_headings {
+    color: #CA21A4;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+h1 {
+    color: #CA21A4;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+}
