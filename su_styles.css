@@ -55,10 +55,11 @@ img, object, embed, video {
 	float: none;
 }
 .header_div {
-	background-image: url(assets/su_logo.gif);
-	background-repeat: no-repeat;
-	height: 110px;
-	margin-top: 10px;
+    background-image: url(assets/su_logo.gif);
+    background-repeat: no-repeat;
+    height: 110px;
+    margin-top: 10px;
+    text-align: center;
 }
 .nav_div {
 	width: 30%;
